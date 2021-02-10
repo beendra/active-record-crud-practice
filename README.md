@@ -32,7 +32,7 @@ The goal of this obstacle course is for you to practice CRUD and to end with two
 2. Run `rake remind_me_about:adding_column` let's add another column -> `eye_color` (string) to the Person table
 3. Run `rake remind_me_about:rolling_back` and follow the instructions to roll back just last migration because YAGNI
 4. Run `rake remind_me_about:adding_column` and follow the instructions to add `free_time` attribute (string), which will tell us when the person is free to water the plants and another column, `age` (integer).  
-**hint** you can do that in one file because you're changing just one table!
+**hint** you can do that in one file because you're changing just one table!               
 
 **HEADS UP**: for all the next steps you can stay in the same `rake console` session!
 
